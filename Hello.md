@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @caio-rafael-dev;
-- 👀 I’m interested in developing beautifull and functional aplications;
-- 🌱 I’m currently learning C#, HTML, CSS, Javascript;
-- 📫 How to reach me linkedin;
+- 👀 I’m interested in developing beautifull, secure and functional aplications;
+- 🌱 I’m currently learning C#, Python, HTML, CSS, SQL;
+- 📫 How to reach me link;
 - ⚡ Fun fact: I', also into cybersecurity.
