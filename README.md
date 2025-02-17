@@ -1,4 +1,4 @@
-### Hi, I'm Caio Rafael!
+# Hi, I'm Caio Rafael!
 
 🖥️ Software Engineer sharing my journey in tech!<br/>
 📖 Studying Analys and Systems Development<br/>
