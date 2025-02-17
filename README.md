@@ -1,9 +1,8 @@
 # Hi, I'm Caio Rafael!
 
-🖥️ Software Engineer sharing my journey in tech!<br/>
-📖 Studying Analys and Systems Development<br/>
-🔒 Curently learning about app security <br/>
-🛜 Connect with my [LinkedIn](https://www.linkedin.com/in/caio--rafael)<br/>
+🖥️ Software Engineer sharing my journey in tech with a cybersecurity mindset!<br/>
+📖 Studying Analysis and Systems Development<br/>
+🔒 Curently learning about app security!<br/>
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/caio--rafael)
