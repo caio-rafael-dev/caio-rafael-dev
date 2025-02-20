@@ -1,7 +1,7 @@
 # Hi, I'm Caio Rafael!
 
 🖥️ Software Engineer sharing my journey in tech with a cybersecurity mindset!<br/>
-📖 Studying Analysis and Systems Development<br/>
+📖 Analysis and Systems Development<br/>
 🔒 Curently learning about app security!<br/>
 
 ## 🌐 Connect with me:
